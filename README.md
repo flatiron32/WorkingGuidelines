@@ -2,6 +2,8 @@
 Everything I want my team members to know about working for me.
 
 ## Working with Jacob
+[Here is a collection of articles](articles.md) that have influenced the way I think. It may be easier to work with me if you understanding how I approach problems and why.
+That being said:
 - If you think I am wrong, I probably am; tell me why.
 
 ## Work Schedule
